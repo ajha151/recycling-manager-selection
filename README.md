@@ -111,6 +111,19 @@ npm run dev
 
 **App runs at:** `http://localhost:3000`
 
+## Screenshots
+
+### Top 10 Leaderboard
+![Top 10 Leaderboard](screenshots/1.png)
+
+### Skill Comparison Chart
+![Skill Heatmap](screenshots/2.png)
+
+### Candidate Cards
+![Candidate Cards](screenshots/3.png)
+![Candidate Cards](screenshots/4.png)
+
+
 ### **Notes**
 
 - This is a frontend-only demo
