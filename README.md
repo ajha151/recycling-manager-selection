@@ -114,14 +114,14 @@ npm run dev
 ## Screenshots
 
 ### Top 10 Leaderboard
-![Top 10 Leaderboard](screenshots/1.png)
+![Top 10 Leaderboard](Screenshots/1.png)
 
 ### Skill Comparison Chart
-![Skill Heatmap](screenshots/2.png)
+![Skill Heatmap](Screenshots/2.png)
 
 ### Candidate Cards
-![Candidate Cards](screenshots/3.png)
-![Candidate Cards](screenshots/4.png)
+![Candidate Cards](Screenshots/3.png)
+![Candidate Cards](Screenshots/4.png)
 
 
 ### **Notes**
