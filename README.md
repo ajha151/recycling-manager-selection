@@ -121,6 +121,7 @@ npm run dev
 
 ### Candidate Cards
 ![Candidate Cards](Screenshots/3.png)
+
 ![Candidate Cards](Screenshots/4.png)
 
 
